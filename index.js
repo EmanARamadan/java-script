@@ -23,13 +23,13 @@ catch(error){
 }
 
 function changeStyle(){
-    document.body.style.backgroundColor = 'green';
+    document.body.style.backgroundColor = 'pink';
 }
     //document.getElementById("keys").style.color = "yellow";document.getElementById("keys").style.color = "yellow";
 
     function changeColor() {
         var colors = document.getElementById("display");
-        colors.style.color = "green";}
+        colors.style.color = "mediumaquamarine";}
 
     function calcuclator() {
         var backgroundColor = document.getElementById("calculator")
